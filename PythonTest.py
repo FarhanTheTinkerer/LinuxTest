@@ -1,2 +1,4 @@
 #This code will attemt to run a quantized LLM and to tell a story
-print('yo')
+l = 'dingy dingy'
+print(l)
+
